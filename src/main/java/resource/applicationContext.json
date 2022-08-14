@@ -1,0 +1,10 @@
+[
+	{
+		"id":"app",
+		"class":"com.akash.DependencyInjectionFramework.App"
+	},
+	{
+		"id":"helloWorld",
+		"class":"com.akash.DependencyInjectionFramework.HelloWorld"
+	}
+]
